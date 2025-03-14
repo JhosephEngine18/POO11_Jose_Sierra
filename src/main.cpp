@@ -20,5 +20,7 @@ int main()
         digits++;
     }
     cout<< "The amount of digits is: " << digits;
+
+    return 0;
     
 }
